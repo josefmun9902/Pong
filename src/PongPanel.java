@@ -1,12 +1,3 @@
-import javafx.scene.shape.Rectangle;
-//
-//
-//
-//how do you double buffer
-//Why does the comment below paddles int he paint method not work
-//
-//
-//
 import javax.swing.*;
 import java.awt.event.*;
 import java.awt.*;

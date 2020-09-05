@@ -1,15 +1,7 @@
-import javafx.scene.shape.Rectangle;
 import java.applet.*;
 import java.net.URL;
 import java.io.*;
-//
-//
-//WHEN BALL IS SLIGHTY ABOVE THE MIDDLE OF THE LEFT PADDLE IT GOES WAY TO FAR UP EVEN THOUGH THE PERCENT TO MID IS CORRECT
-//
-//
-//
-//
-//
+
 public class PongGame
 {
     public static final int PLAYING = 0;

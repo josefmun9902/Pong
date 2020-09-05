@@ -1,5 +1,3 @@
-import javafx.scene.shape.Rectangle;
-
 public class Paddle
 {
     public static final int WIDTH=15;
